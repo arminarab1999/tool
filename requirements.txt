@@ -1,0 +1,13 @@
+subprocess
+signal
+webbrowser
+platform
+colorama
+requests
+rich
+colored
+urllib3
+PySocks
+phonenumbers
+datetime
+futures
