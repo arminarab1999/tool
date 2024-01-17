@@ -1,7 +1,6 @@
 import sys,os
 from colorama import Fore
 import time
-import pyttsx3
 #next
 #color
 red='\033[31m'
